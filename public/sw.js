@@ -1,6 +1,6 @@
 "use strict";
 
-const CACHE_NAME = "form-tracker-v1";
+const CACHE_NAME = "form-tracker-v2";
 const PAGE_URLS = ["./", "./index.html"];
 
 self.addEventListener("install", event => {
